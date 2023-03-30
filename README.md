@@ -45,7 +45,7 @@ PostGresSQL  |
 
 ## Cursos
 
-**ALURA**
+**ALURA:**
 *Tecnologias:
 - Cultura Agil, Arquitetura e Engenharia de Software
 - Orientação de Objetos com C# 
@@ -56,13 +56,14 @@ PostGresSQL  |
 
 <br>
 
-**UDEMY**
+**UDEMY:**
 *Tecnologias: HTML5 - CSS3 - Git - Docker 
 *Site: https://www.udemy.com.br
 
 <br>
 
+**Ajude-Me**
 ```
 Encontrou algum erro nas informações? Me avise!
 ```
-</b>
+
