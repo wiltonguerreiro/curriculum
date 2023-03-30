@@ -1,6 +1,6 @@
 # Wilton O. Guerreiro
 
-## Idiomas
-Inglês - Intermediario
-Português
+## Projeto
+Back-End (Csharp / mySQL /)
+
 
