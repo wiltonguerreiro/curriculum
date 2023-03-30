@@ -1,6 +1,6 @@
 # Wilton O. Guerreiro
 
-## Educação Academica 
+## Formação Academica 
 **Universidade:** UNIMAR
 **Curso:** Analise Desenvolvimento de Sistemas
 **Cidade** Marília - São Paulo
